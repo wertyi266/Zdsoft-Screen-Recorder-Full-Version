@@ -243,4 +243,4 @@ This repository serves as the official landing page for ZdSoft Screen Recorder. 
 **Get the most recent version of ZdSoft Screen Recorder today!**
 
 ---
-**Last updated:** 2026-09-18 07:44:09 UTC
+**Last updated:** 2026-09-18 12:28:35 UTC
